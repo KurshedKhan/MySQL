@@ -1,4 +1,4 @@
-# Understanding Data - Detailed Teaching Notes
+# Understanding Data -
 
 ## 1. Introduction to Data
 - **Definition**: Data refers to a collection of characters, numbers, and symbols that represent values of situations or variables.
