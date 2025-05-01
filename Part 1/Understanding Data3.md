@@ -1,4 +1,4 @@
-# Understanding Data - Comprehensive Teaching Notes
+# Understanding Data 
 
 ## 1. Introduction to Data
 - **Definition**: Data refers to a collection of facts, figures, and statistics that can be processed to derive meaningful information.
