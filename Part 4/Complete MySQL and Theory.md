@@ -1,4 +1,4 @@
-# Understanding Data - Comprehensive Teaching Notes
+# Understanding Data -
 
 ## 1. Introduction to Data
 - **Definition**: Data refers to a collection of facts, figures, and statistics that can be processed to derive meaningful information.
@@ -113,7 +113,7 @@ Statistical techniques are essential for analyzing data and deriving meaningful 
 4. **Statistical Techniques**: Choose appropriate statistical methods for various scenarios, such as comparing sales figures or analyzing survey results.
 
 ---
-# Database Concepts - Comprehensive Teaching Notes
+# Database Concepts -
 
 ## 1. Introduction to Databases
 - **Definition**: A database is an organized collection of structured information or data, typically stored electronically in a computer system. It allows for easy access, management, and updating of data.
