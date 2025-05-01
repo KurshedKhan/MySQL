@@ -1,4 +1,4 @@
-# Database Concepts - Comprehensive Teaching Notes
+# Database Concepts - 
 
 ## 1. Introduction to Databases
 - **Definition**: A database is an organized collection of structured information or data, typically stored electronically in a computer system. It allows for easy access, management, and updating of data.
