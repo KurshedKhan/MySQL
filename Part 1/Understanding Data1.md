@@ -1,4 +1,4 @@
-# Understanding Data - Key Points for Teaching Notes
+# Understanding Data -
 
 ## Introduction to Data
 - Data is crucial for decision-making in various fields such as education, government, sports, and banking.
