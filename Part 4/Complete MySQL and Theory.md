@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Understanding Data
+=======
+# Understanding Data -
+>>>>>>> 5dff8d1ddd74ceb874ba29e291338915d6bb247b
 
 ## 1. Introduction to Data
 - **Definition**: Data refers to a collection of facts, figures, and statistics that can be processed to derive meaningful information.
@@ -113,7 +117,11 @@ Statistical techniques are essential for analyzing data and deriving meaningful 
 4. **Statistical Techniques**: Choose appropriate statistical methods for various scenarios, such as comparing sales figures or analyzing survey results.
 
 ---
+<<<<<<< HEAD
 # Database Concepts 
+=======
+# Database Concepts -
+>>>>>>> 5dff8d1ddd74ceb874ba29e291338915d6bb247b
 
 ## 1. Introduction to Databases
 - **Definition**: A database is an organized collection of structured information or data, typically stored electronically in a computer system. It allows for easy access, management, and updating of data.

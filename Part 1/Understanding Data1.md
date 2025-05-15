@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Understanding Data -
+=======
+# Understanding Data 
+>>>>>>> 5dff8d1ddd74ceb874ba29e291338915d6bb247b
 
 ## Introduction to Data
 - Data is crucial for decision-making in various fields such as education, government, sports, and banking.

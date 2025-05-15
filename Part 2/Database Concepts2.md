@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Database Concepts 
+=======
+# Database Concepts - 
+>>>>>>> 5dff8d1ddd74ceb874ba29e291338915d6bb247b
 
 ## 1. Introduction to Databases
 - **Definition**: A database is an organized collection of structured information or data, typically stored electronically in a computer system. It allows for easy access, management, and updating of data.

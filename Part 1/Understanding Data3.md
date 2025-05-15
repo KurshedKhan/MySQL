@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Understanding Data -
+=======
+# Understanding Data 
+>>>>>>> 5dff8d1ddd74ceb874ba29e291338915d6bb247b
 
 ## 1. Introduction to Data
 - **Definition**: Data refers to a collection of facts, figures, and statistics that can be processed to derive meaningful information.
